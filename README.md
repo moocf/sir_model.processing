@@ -1,7 +1,7 @@
 SIR Model simulation with Processing.
 
 **Research**: [Infectious Disease Modeling], Monsoon 2020<br>
-**Guided by**: Prof. Kishore Kothapalli
+**Guided by**: Prof. Kishore Kothapalli, Prof. Sriram Pemmaraju
 
 ![](assets/01.png)<br>
 

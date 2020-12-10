@@ -9,7 +9,7 @@ int N = S.length;
 int T = 10000;
 
 void setup() {
-  size(2048, 768);
+  size(1300, 700);
   background(0);
   noStroke();
   fill(102);

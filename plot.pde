@@ -24,3 +24,9 @@ void plotLine(float[] Y, int T, color c, String n) {
     square(x, y=height-Y[i]*height, 4);
   text(n, x, y);
 }
+
+
+void square(float x, float y, float width) {
+  rect(x, y, width, width);
+}
+
